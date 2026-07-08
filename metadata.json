@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot",
+  "description": "A responsive and versatile AI chatbot powered by Gemini, featuring multiple personas, markdown support, code highlighting, and chat history persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
